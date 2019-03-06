@@ -4,8 +4,8 @@ Pod::Spec.new do |s|
   s.version      = "0.0.1"
   s.summary      = "Testing Pod First."
   s.homepage     = "https://github.com/RohitRanjanPandey/TestPodFirst"
-  s.license      =  { :type => 'Philips', :text => <<-LICENSE
-                        © Koninklijke Philips N.V., 2018. All rights reserved.
+  s.license      =  { :type => 'Rohit', :text => <<-LICENSE
+                        © RohitRanjan, 2019. All rights reserved.
                      LICENSE
                    }
   s.author       = "Rohit Ranjan"
